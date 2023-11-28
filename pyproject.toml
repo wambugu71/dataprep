@@ -43,7 +43,7 @@ python = ">=3.8,<3.11"
 # Dependencies for EDA
 bokeh = "^2"
 dask = {version = ">=2022.3.0", extras = ["array", "dataframe", "delayed"]}
-nltk = "
+nltk = "^3.6.7"
 numpy = "^1.24"
 pandas = "1.5.3"
 pydot = "^1.4.2" 
