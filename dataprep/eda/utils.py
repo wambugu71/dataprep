@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 import pandas._libs.missing as libmissing
 from bokeh.models import Legend, FuncTickFormatter
-from bokeh.plotting import figure  as   Figure
+from bokeh.plotting import    Figure
 from scipy.stats import gaussian_kde as gaussian_kde_
 from scipy.stats import ks_2samp as ks_2samp_
 from scipy.stats import normaltest as normaltest_
